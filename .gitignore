@@ -1,4 +1,6 @@
 # Ignore all .nii.gz files
 *.nii.gz
 *.Identifier
-*.pt
+best*.pt
+cnn*.pt
+simple*.pt
